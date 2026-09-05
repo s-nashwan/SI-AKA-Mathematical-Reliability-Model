@@ -1,6 +1,0 @@
-Primary pair: (mu2,mu0)=(4,5), Fsys=6.91369117198e-05
-AP reachable states: [('A', 1), ('P', 0), ('S', 0)]
-All validation analytical values inside Wilson 95% intervals: True
-GE mean loss: 0.100000
-GE matrix-renewal max failure diff vs absorbing chain: 5.551e-17
-GE matrix-renewal max request-count diff vs absorbing chain: 1.110e-15
